@@ -13,6 +13,7 @@
 		8B2A2FF22632B17900E8163B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B2A2FF02632B17900E8163B /* Main.storyboard */; };
 		8B2A2FF42632B17A00E8163B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B2A2FF32632B17A00E8163B /* Assets.xcassets */; };
 		8B2A2FF72632B17A00E8163B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B2A2FF52632B17A00E8163B /* LaunchScreen.storyboard */; };
+		8B2A30002632B28F00E8163B /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2A2FFF2632B28F00E8163B /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8B2A2FF32632B17A00E8163B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B2A2FF62632B17A00E8163B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B2A2FF82632B17A00E8163B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B2A2FFF2632B28F00E8163B /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8B2A2FF32632B17A00E8163B /* Assets.xcassets */,
 				8B2A2FF52632B17A00E8163B /* LaunchScreen.storyboard */,
 				8B2A2FF82632B17A00E8163B /* Info.plist */,
+				8B2A2FFF2632B28F00E8163B /* ResultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				8B2A2FEF2632B17900E8163B /* ViewController.swift in Sources */,
 				8B2A2FEB2632B17900E8163B /* AppDelegate.swift in Sources */,
 				8B2A2FED2632B17900E8163B /* SceneDelegate.swift in Sources */,
+				8B2A30002632B28F00E8163B /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
